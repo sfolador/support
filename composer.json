@@ -1,6 +1,6 @@
 {
     "name": "sfolador/support",
-    "description": "This package helps you to create a support page and manage the support requests.",
+    "description": "This package helps you to create a support page and manage the support requests on Laravel.",
     "keywords": [
         "Simone Folador",
         "laravel",
